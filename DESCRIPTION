@@ -1,0 +1,11 @@
+Package: BRI.habitat
+Type: Package
+Title: Get Helpful Info and interact with BRI's Habitat data
+Version: 0.1.0
+Author: DevTeam
+Description: This package contains functions to access and query the habitat
+    schema of the BRI Data Warehouse, hosted on Amazon RDS.
+License: madeUpLicense
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.0.0
